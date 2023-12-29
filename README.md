@@ -1,4 +1,4 @@
-<img src="https://pp-pixel.github.io/hp/images/SNS2.svg">  
+<a href="https://pp-pixel.github.io/hp/" target="_blank"><img src="https://pp-pixel.github.io/hp/images/SNS1.svg"></a>  
 
   
 - 👋 Hi, I’m @PP-Pixel
