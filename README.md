@@ -1,4 +1,6 @@
 <img src="https://pp-pixel.github.io/hp/images/SNS2.svg">  
+
+  
 - 👋 Hi, I’m @PP-Pixel
 - 👀 I’m interested in HTML & CSS.
 - 🌱 I’m currently learning HTML & CSS.
