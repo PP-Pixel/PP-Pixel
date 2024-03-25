@@ -1,7 +1,7 @@
 <a href="https://pp-pixel.github.io/hp/" target="_blank"><img src="https://pp-pixel.github.io/images/SNS1.svg" width="800px"></a>  
 
   
-- 👋 Hi, I’m ℙℙ 𝔻𝕖𝕧.
+- 👋 Hi, I’m ℙℙ.
 - 👀 I’m interested in HTML & CSS.
 - 🌱 I’m currently learning HTML & CSS.
 - 💞️ I like Google & Google Pixel. I use the Pixel 7 Pro.
