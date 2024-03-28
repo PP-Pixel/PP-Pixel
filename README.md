@@ -1,4 +1,5 @@
-<a href="https://pp-pixel.github.io/hp/" target="_blank"><img src="https://pp-pixel.github.io/images/SNS1.svg" width="800px"></a>  
+<img src="https://pp-pixel.github.io/images/PP_Pixel-Bugdroid_W.svg" width="500px">
+<a href="https://pp-pixel.github.io" target="_blank"><img src="https://pp-pixel.github.io/images/SNS1.svg" width="800px"></a>  
 
   
 - 👋 Hi, I’m ℙℙ.
