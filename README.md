@@ -1,4 +1,4 @@
-[<img src="https://pp-pixel.pages.dev/images/PP_Pixel-Bugdroid_W.svg" width="100px">](https://pp-pixel.pages.dev)<wbr>
+[<img src="https://pp-pixel.pages.dev/images/PP_Pixel-Bugdroid_W.svg" width="100px">](https://pp-pixel.pages.dev)<br>
 <a href="https://pp-pixel.pages.dev" target="_blank"><img src="https://pp-pixel.pages.dev/images/SNS1.svg" width="800px"></a>  
 
   
